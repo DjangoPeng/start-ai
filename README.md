@@ -32,7 +32,7 @@ Start-AI 项目旨在提供一个 **从零基础到进阶** 学习人工智能�
 
 ## 机器学习云平台
 
-- [Azure Machine Learning(AML)](https://github.com/DjangoPeng/aml-101)
+- [微软机器学习云平台 Azure Machine Learning(AML)](https://github.com/DjangoPeng/aml-101)
 
 ## 深度学习入门
 
