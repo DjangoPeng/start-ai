@@ -1,0 +1,6 @@
+[submodule "aml-101"]
+	path = aml-101
+	url = https://github.com/DjangoPeng/aml-101
+[submodule "keras-101"]
+	path = keras-101
+	url = https://github.com/DjangoPeng/keras-101
