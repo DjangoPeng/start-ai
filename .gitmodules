@@ -7,3 +7,6 @@
 [submodule "tensorflow-in-depth"]
 	path = tensorflow-in-depth
 	url = https://github.com/DjangoPeng/tensorflow-in-depth
+[submodule "tensorflow-101"]
+	path = tensorflow-101
+	url = https://github.com/DjangoPeng/tensorflow-101
