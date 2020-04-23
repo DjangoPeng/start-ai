@@ -41,3 +41,6 @@ Start-AI 项目旨在提供一个 **从零基础到进阶** 学习人工智能�
 
 - [深入理解TensorFlow：架构设计与实现原理](https://github.com/DjangoPeng/tensorflow-in-depth)
 
+## 交流讨论群
+
+![group_qrcode.png](images/group_qrcode.png)
