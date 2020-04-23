@@ -43,4 +43,4 @@ Start-AI 项目旨在提供一个 **从零基础到进阶** 学习人工智能�
 
 ## 交流讨论群
 
-![group_qrcode.png](images/group_qrcode.png)
+![group_qrcode.png](https://cdn.huomaqun.com/aqwyqrcode/2020-04-23/d464fd1566a62a678e08a24ff545339a.png)
