@@ -3,7 +3,7 @@
 	url = https://github.com/DjangoPeng/aml-101
 [submodule "keras-101"]
 	path = keras-101
-	url = ../DjangoPeng/keras-101
+	url = https://github.com/DjangoPeng/keras-101
 [submodule "tensorflow-in-depth"]
 	path = tensorflow-in-depth
 	url = https://github.com/DjangoPeng/tensorflow-in-depth
